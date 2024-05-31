@@ -12,8 +12,6 @@ Back-endAuthentification
 
 -   [User management](https://alx-intranet.hbtn.io/concepts/558)
 
-![image](https://github.com/AsuweRich/alx-backend-user-data/assets/106776383/fbec2a18-80e1-4d1a-8225-497ae6936218)
-
 Resources
 ---------
 
